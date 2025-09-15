@@ -28,7 +28,7 @@ Usage/Examples
 
 :two: Open Visual Studio Code, click on Open Folder, and choose the directory where you saved this project.
 
-:three: Run the application by starting the development server (e.g., npm run dev if using Next.js) or open the index.html file. You can also use the "Live Server" extension in Visual Studio Code.
+:three: Run the application by starting the development server (e.g., npm run dev). 
 
 :point_down:<h4>How to use it:</h4>
 
@@ -48,7 +48,7 @@ Opportunities appear in cards with stage, amount, and account info.
 
 :two: Abra o Visual Studio Code, clique em Abrir Pasta e escolha o diretório onde você salvou o projeto.
 
-:three: Execute a aplicação iniciando o servidor de desenvolvimento (ex.: npm run dev se estiver usando Next.js) ou abra o arquivo index.html. Você também pode usar a extensão "Live Server" no Visual Studio Code.
+:three: Execute a aplicação iniciando o servidor de desenvolvimento (ex.: npm run dev). 
 
 :point_down:<h4>Como utilizar:</h4>
 

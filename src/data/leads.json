@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "1",
+    "name": "Mariana Lima",
+    "company": "HealthCare Pro",
+    "email": "mariana.lima1@healthcarepro.com",
+    "source": "Referral",
+    "score": 54,
+    "status": "Contacted"
+  },
+  {
+    "id": "2",
+    "name": "Elena Mendes",
+    "company": "Educa Online",
+    "email": "elena.mendes2@educaonline.com",
+    "source": "Cold Call",
+    "score": 73,
+    "status": "New"
+  },
+  {
+    "id": "3",
+    "name": "Victor Andrade",
+    "company": "HealthCare Pro",
+    "email": "victor.andrade3@healthcarepro.com",
+    "source": "Cold Call",
+    "score": 86,
+    "status": "Contacted"
+  },
+  {
+    "id": "4",
+    "name": "Lucas Lima",
+    "company": "HealthCare Pro",
+    "email": "lucas.lima4@healthcarepro.com",
+    "source": "Referral",
+    "score": 69,
+    "status": "Contacted"
+  },
+  {
+    "id": "5",
+    "name": "Tatiana Dias",
+    "company": "Alpha Marketing",
+    "email": "tatiana.dias5@alphamarketing.com",
+    "source": "Web",
+    "score": 70,
+    "status": "Qualified"
+  },
+  {
+    "id": "6",
+    "name": "Mariana Silva",
+    "company": "Educa Online",
+    "email": "mariana.silva6@educaonline.com",
+    "source": "Web",
+    "score": 67,
+    "status": "Contacted"
+  },
+  {
+    "id": "7",
+    "name": "Lucas Souza",
+    "company": "Alpha Marketing",
+    "email": "lucas.souza7@alphamarketing.com",
+    "source": "Cold Call",
+    "score": 73,
+    "status": "Contacted"
+  },
+  {
+    "id": "8",
+    "name": "Victor Martins",
+    "company": "Inova Solutions",
+    "email": "victor.martins8@inovasolutions.com",
+    "source": "Event",
+    "score": 48,
+    "status": "Contacted"
+  },
+  {
+    "id": "9",
+    "name": "Clara Ramos",
+    "company": "Creative Hub",
+    "email": "clara.ramos9@creativehub.com",
+    "source": "Referral",
+    "score": 100,
+    "status": "Contacted"
+  },
+  {
+    "id": "10",
+    "name": "Bruno Oliveira",
+    "company": "TechCorp",
+    "email": "bruno.oliveira10@techcorp.com",
+    "source": "Referral",
+    "score": 70,
+    "status": "Lost"
+  },
+  {
+    "id": "11",
+    "name": "Carla Barbosa",
+    "company": "Alpha Marketing",
+    "email": "carla.barbosa11@alphamarketing.com",
+    "source": "Referral",
+    "score": 59,
+    "status": "New"
+  },
+  {
+    "id": "12",
+    "name": "Mariana Dias",
+    "company": "Finance Plus",
+    "email": "mariana.dias12@financeplus.com",
+    "source": "Cold Call",
+    "score": 52,
+    "status": "New"
+  },
+  {
+    "id": "13",
+    "name": "Ana Costa",
+    "company": "Creative Hub",
+    "email": "ana.costa13@creativehub.com",
+    "source": "Event",
+    "score": 74,
+    "status": "Lost"
+  },
+  {
+    "id": "14",
+    "name": "Elena Ferreira",
+    "company": "FutureTech",
+    "email": "elena.ferreira14@futuretech.com",
+    "source": "Web",
+    "score": 48,
+    "status": "Contacted"
+  },
+  {
+    "id": "15",
+    "name": "Victor Barbosa",
+    "company": "Green Energy",
+    "email": "victor.barbosa15@greenenergy.com",
+    "source": "Web",
+    "score": 47,
+    "status": "Contacted"
+  },
+  {
+    "id": "16",
+    "name": "Jo\u00e3o Ramos",
+    "company": "NextGen Labs",
+    "email": "jo\u00e3o.ramos16@nextgenlabs.com",
+    "source": "Cold Call",
+    "score": 49,
+    "status": "Contacted"
+  },
+  {
+    "id": "17",
+    "name": "Samuel Dias",
+    "company": "FutureTech",
+    "email": "samuel.dias17@futuretech.com",
+    "source": "Referral",
+    "score": 94,
+    "status": "Qualified"
+  },
+  {
+    "id": "18",
+    "name": "Daniel Ferreira",
+    "company": "NextGen Labs",
+    "email": "daniel.ferreira18@nextgenlabs.com",
+    "source": "Web",
+    "score": 72,
+    "status": "Qualified"
+  },
+  {
+    "id": "19",
+    "name": "Alice Vieira",
+    "company": "Inova Solutions",
+    "email": "alice.vieira19@inovasolutions.com",
+    "source": "Event",
+    "score": 53,
+    "status": "Lost"
+  },
+  {
+    "id": "20",
+    "name": "Mariana Dias",
+    "company": "RetailPro",
+    "email": "mariana.dias20@retailpro.com",
+    "source": "Cold Call",
+    "score": 66,
+    "status": "Qualified"
+  },
+  {
+    "id": "21",
+    "name": "Samuel Mendes",
+    "company": "NextGen Labs",
+    "email": "samuel.mendes21@nextgenlabs.com",
+    "source": "Web",
+    "score": 99,
+    "status": "Qualified"
+  },
+  {
+    "id": "22",
+    "name": "Rafael Lima",
+    "company": "Creative Hub",
+    "email": "rafael.lima22@creativehub.com",
+    "source": "Referral",
+    "score": 59,
+    "status": "Contacted"
+  },
+  {
+    "id": "23",
+    "name": "Ana Pereira",
+    "company": "Green Energy",
+    "email": "ana.pereira23@greenenergy.com",
+    "source": "Event",
+    "score": 53,
+    "status": "Contacted"
+  },
+  {
+    "id": "24",
+    "name": "Mariana Pereira",
+    "company": "Creative Hub",
+    "email": "mariana.pereira24@creativehub.com",
+    "source": "Web",
+    "score": 96,
+    "status": "Lost"
+  },
+  {
+    "id": "25",
+    "name": "Nicolas Rocha",
+    "company": "Alpha Marketing",
+    "email": "nicolas.rocha25@alphamarketing.com",
+    "source": "Event",
+    "score": 98,
+    "status": "Qualified"
+  },
+  {
+    "id": "26",
+    "name": "Paulo Souza",
+    "company": "Finance Plus",
+    "email": "paulo.souza26@financeplus.com",
+    "source": "Event",
+    "score": 67,
+    "status": "Qualified"
+  },
+  {
+    "id": "27",
+    "name": "Nicolas Batista",
+    "company": "NextGen Labs",
+    "email": "nicolas.batista27@nextgenlabs.com",
+    "source": "Event",
+    "score": 64,
+    "status": "Lost"
+  },
+  {
+    "id": "28",
+    "name": "Gabriela Lima",
+    "company": "SoftLink",
+    "email": "gabriela.lima28@softlink.com",
+    "source": "Referral",
+    "score": 62,
+    "status": "New"
+  },
+  {
+    "id": "29",
+    "name": "Diego Ferreira",
+    "company": "AgroMax",
+    "email": "diego.ferreira29@agromax.com",
+    "source": "Referral",
+    "score": 97,
+    "status": "Contacted"
+  },
+  {
+    "id": "30",
+    "name": "Ana Rocha",
+    "company": "DataWorks",
+    "email": "ana.rocha30@dataworks.com",
+    "source": "Referral",
+    "score": 66,
+    "status": "Qualified"
+  },
+  {
+    "id": "31",
+    "name": "Diego Lima",
+    "company": "TechCorp",
+    "email": "diego.lima31@techcorp.com",
+    "source": "Web",
+    "score": 72,
+    "status": "Contacted"
+  },
+  {
+    "id": "32",
+    "name": "Alice Gomes",
+    "company": "AgroMax",
+    "email": "alice.gomes32@agromax.com",
+    "source": "Referral",
+    "score": 72,
+    "status": "Lost"
+  },
+  {
+    "id": "33",
+    "name": "Gabriela Rocha",
+    "company": "DataWorks",
+    "email": "gabriela.rocha33@dataworks.com",
+    "source": "Cold Call",
+    "score": 75,
+    "status": "Qualified"
+  },
+  {
+    "id": "34",
+    "name": "Gabriela Johnson",
+    "company": "Green Energy",
+    "email": "gabriela.johnson34@greenenergy.com",
+    "source": "Event",
+    "score": 44,
+    "status": "New"
+  },
+  {
+    "id": "35",
+    "name": "Bruno Barbosa",
+    "company": "AgroMax",
+    "email": "bruno.barbosa35@agromax.com",
+    "source": "Event",
+    "score": 75,
+    "status": "Qualified"
+  },
+  {
+    "id": "36",
+    "name": "Gabriela Oliveira",
+    "company": "RetailPro",
+    "email": "gabriela.oliveira36@retailpro.com",
+    "source": "Cold Call",
+    "score": 90,
+    "status": "Contacted"
+  },
+  {
+    "id": "37",
+    "name": "Isabela Martins",
+    "company": "SoftLink",
+    "email": "isabela.martins37@softlink.com",
+    "source": "Referral",
+    "score": 96,
+    "status": "Contacted"
+  },
+  {
+    "id": "38",
+    "name": "Olivia Lima",
+    "company": "DataWorks",
+    "email": "olivia.lima38@dataworks.com",
+    "source": "Referral",
+    "score": 63,
+    "status": "Qualified"
+  },
+  {
+    "id": "39",
+    "name": "Gabriela Rocha",
+    "company": "Creative Hub",
+    "email": "gabriela.rocha39@creativehub.com",
+    "source": "Cold Call",
+    "score": 51,
+    "status": "Lost"
+  },
+  {
+    "id": "40",
+    "name": "Tatiana Andrade",
+    "company": "NextGen Labs",
+    "email": "tatiana.andrade40@nextgenlabs.com",
+    "source": "Web",
+    "score": 74,
+    "status": "Contacted"
+  },
+  {
+    "id": "41",
+    "name": "Olivia Gomes",
+    "company": "TechCorp",
+    "email": "olivia.gomes41@techcorp.com",
+    "source": "Web",
+    "score": 61,
+    "status": "Lost"
+  },
+  {
+    "id": "42",
+    "name": "Carla Dias",
+    "company": "TechCorp",
+    "email": "carla.dias42@techcorp.com",
+    "source": "Event",
+    "score": 80,
+    "status": "New"
+  },
+  {
+    "id": "43",
+    "name": "Tatiana Dias",
+    "company": "DataWorks",
+    "email": "tatiana.dias43@dataworks.com",
+    "source": "Event",
+    "score": 50,
+    "status": "Contacted"
+  },
+  {
+    "id": "44",
+    "name": "Tatiana Silva",
+    "company": "RetailPro",
+    "email": "tatiana.silva44@retailpro.com",
+    "source": "Web",
+    "score": 43,
+    "status": "Qualified"
+  },
+  {
+    "id": "45",
+    "name": "Renata Almeida",
+    "company": "TransLog",
+    "email": "renata.almeida45@translog.com",
+    "source": "Event",
+    "score": 50,
+    "status": "Lost"
+  },
+  {
+    "id": "46",
+    "name": "Bruno Barbosa",
+    "company": "SmartBuild",
+    "email": "bruno.barbosa46@smartbuild.com",
+    "source": "Referral",
+    "score": 47,
+    "status": "Lost"
+  },
+  {
+    "id": "47",
+    "name": "Felipe Rocha",
+    "company": "Educa Online",
+    "email": "felipe.rocha47@educaonline.com",
+    "source": "Event",
+    "score": 44,
+    "status": "Contacted"
+  },
+  {
+    "id": "48",
+    "name": "Samuel Ramos",
+    "company": "CyberVision",
+    "email": "samuel.ramos48@cybervision.com",
+    "source": "Web",
+    "score": 87,
+    "status": "New"
+  },
+  {
+    "id": "49",
+    "name": "Rafael Santos",
+    "company": "Finance Plus",
+    "email": "rafael.santos49@financeplus.com",
+    "source": "Referral",
+    "score": 74,
+    "status": "New"
+  },
+  {
+    "id": "50",
+    "name": "Bruno Gomes",
+    "company": "RetailPro",
+    "email": "bruno.gomes50@retailpro.com",
+    "source": "Referral",
+    "score": 62,
+    "status": "Contacted"
+  },
+  {
+    "id": "51",
+    "name": "Victor Batista",
+    "company": "AI Vision",
+    "email": "victor.batista51@aivision.com",
+    "source": "Referral",
+    "score": 61,
+    "status": "New"
+  },
+  {
+    "id": "52",
+    "name": "Karen Barbosa",
+    "company": "HealthCare Pro",
+    "email": "karen.barbosa52@healthcarepro.com",
+    "source": "Event",
+    "score": 51,
+    "status": "New"
+  },
+  {
+    "id": "53",
+    "name": "Elena Andrade",
+    "company": "MediPlus",
+    "email": "elena.andrade53@mediplus.com",
+    "source": "Web",
+    "score": 54,
+    "status": "Lost"
+  },
+  {
+    "id": "54",
+    "name": "Diego Oliveira",
+    "company": "SmartBuild",
+    "email": "diego.oliveira54@smartbuild.com",
+    "source": "Cold Call",
+    "score": 86,
+    "status": "New"
+  },
+  {
+    "id": "55",
+    "name": "Felipe Ramos",
+    "company": "Creative Hub",
+    "email": "felipe.ramos55@creativehub.com",
+    "source": "Event",
+    "score": 56,
+    "status": "Qualified"
+  },
+  {
+    "id": "56",
+    "name": "Tatiana Silva",
+    "company": "Designify",
+    "email": "tatiana.silva56@designify.com",
+    "source": "Cold Call",
+    "score": 41,
+    "status": "Qualified"
+  },
+  {
+    "id": "57",
+    "name": "Felipe Santos",
+    "company": "TechCorp",
+    "email": "felipe.santos57@techcorp.com",
+    "source": "Event",
+    "score": 91,
+    "status": "Qualified"
+  },
+  {
+    "id": "58",
+    "name": "Jo\u00e3o Oliveira",
+    "company": "FutureTech",
+    "email": "jo\u00e3o.oliveira58@futuretech.com",
+    "source": "Cold Call",
+    "score": 91,
+    "status": "New"
+  },
+  {
+    "id": "59",
+    "name": "Bruno Ferreira",
+    "company": "NextGen Labs",
+    "email": "bruno.ferreira59@nextgenlabs.com",
+    "source": "Event",
+    "score": 94,
+    "status": "Qualified"
+  },
+  {
+    "id": "60",
+    "name": "Diego Dias",
+    "company": "Inova Solutions",
+    "email": "diego.dias60@inovasolutions.com",
+    "source": "Cold Call",
+    "score": 92,
+    "status": "Qualified"
+  },
+  {
+    "id": "61",
+    "name": "Victor Almeida",
+    "company": "TransLog",
+    "email": "victor.almeida61@translog.com",
+    "source": "Referral",
+    "score": 84,
+    "status": "New"
+  },
+  {
+    "id": "62",
+    "name": "Jo\u00e3o Lima",
+    "company": "DataWorks",
+    "email": "jo\u00e3o.lima62@dataworks.com",
+    "source": "Referral",
+    "score": 51,
+    "status": "Lost"
+  },
+  {
+    "id": "63",
+    "name": "Bruno Costa",
+    "company": "SmartBuild",
+    "email": "bruno.costa63@smartbuild.com",
+    "source": "Event",
+    "score": 50,
+    "status": "New"
+  },
+  {
+    "id": "64",
+    "name": "Nicolas Johnson",
+    "company": "Designify",
+    "email": "nicolas.johnson64@designify.com",
+    "source": "Web",
+    "score": 93,
+    "status": "Contacted"
+  },
+  {
+    "id": "65",
+    "name": "Elena Ramos",
+    "company": "AgroMax",
+    "email": "elena.ramos65@agromax.com",
+    "source": "Web",
+    "score": 96,
+    "status": "Qualified"
+  },
+  {
+    "id": "66",
+    "name": "Felipe Vieira",
+    "company": "DataWorks",
+    "email": "felipe.vieira66@dataworks.com",
+    "source": "Referral",
+    "score": 40,
+    "status": "New"
+  },
+  {
+    "id": "67",
+    "name": "Renata Lima",
+    "company": "Creative Hub",
+    "email": "renata.lima67@creativehub.com",
+    "source": "Web",
+    "score": 50,
+    "status": "Contacted"
+  },
+  {
+    "id": "68",
+    "name": "Karen Barbosa",
+    "company": "Finance Plus",
+    "email": "karen.barbosa68@financeplus.com",
+    "source": "Cold Call",
+    "score": 98,
+    "status": "New"
+  },
+  {
+    "id": "69",
+    "name": "Lucas Gomes",
+    "company": "NextGen Labs",
+    "email": "lucas.gomes69@nextgenlabs.com",
+    "source": "Referral",
+    "score": 86,
+    "status": "Lost"
+  },
+  {
+    "id": "70",
+    "name": "Gabriela Oliveira",
+    "company": "DataWorks",
+    "email": "gabriela.oliveira70@dataworks.com",
+    "source": "Referral",
+    "score": 97,
+    "status": "Contacted"
+  },
+  {
+    "id": "71",
+    "name": "Elena Andrade",
+    "company": "SmartBuild",
+    "email": "elena.andrade71@smartbuild.com",
+    "source": "Referral",
+    "score": 93,
+    "status": "Qualified"
+  },
+  {
+    "id": "72",
+    "name": "Felipe Gomes",
+    "company": "MediPlus",
+    "email": "felipe.gomes72@mediplus.com",
+    "source": "Web",
+    "score": 55,
+    "status": "Contacted"
+  },
+  {
+    "id": "73",
+    "name": "Renata Almeida",
+    "company": "DataWorks",
+    "email": "renata.almeida73@dataworks.com",
+    "source": "Cold Call",
+    "score": 73,
+    "status": "New"
+  },
+  {
+    "id": "74",
+    "name": "Hugo Rocha",
+    "company": "SoftLink",
+    "email": "hugo.rocha74@softlink.com",
+    "source": "Event",
+    "score": 71,
+    "status": "Contacted"
+  },
+  {
+    "id": "75",
+    "name": "Daniel Johnson",
+    "company": "Inova Solutions",
+    "email": "daniel.johnson75@inovasolutions.com",
+    "source": "Cold Call",
+    "score": 43,
+    "status": "Qualified"
+  },
+  {
+    "id": "76",
+    "name": "Gabriela Silva",
+    "company": "AgroMax",
+    "email": "gabriela.silva76@agromax.com",
+    "source": "Referral",
+    "score": 57,
+    "status": "Qualified"
+  },
+  {
+    "id": "77",
+    "name": "Alice Vieira",
+    "company": "MediPlus",
+    "email": "alice.vieira77@mediplus.com",
+    "source": "Event",
+    "score": 52,
+    "status": "Qualified"
+  },
+  {
+    "id": "78",
+    "name": "Daniel Ramos",
+    "company": "CyberVision",
+    "email": "daniel.ramos78@cybervision.com",
+    "source": "Cold Call",
+    "score": 49,
+    "status": "Qualified"
+  },
+  {
+    "id": "79",
+    "name": "Renata Rocha",
+    "company": "HealthCare Pro",
+    "email": "renata.rocha79@healthcarepro.com",
+    "source": "Cold Call",
+    "score": 43,
+    "status": "New"
+  },
+  {
+    "id": "80",
+    "name": "Lucas Almeida",
+    "company": "Finance Plus",
+    "email": "lucas.almeida80@financeplus.com",
+    "source": "Web",
+    "score": 93,
+    "status": "Lost"
+  },
+  {
+    "id": "81",
+    "name": "Alice Ferreira",
+    "company": "SoftLink",
+    "email": "alice.ferreira81@softlink.com",
+    "source": "Cold Call",
+    "score": 55,
+    "status": "Contacted"
+  },
+  {
+    "id": "82",
+    "name": "Carla Johnson",
+    "company": "TechCorp",
+    "email": "carla.johnson82@techcorp.com",
+    "source": "Referral",
+    "score": 53,
+    "status": "Contacted"
+  },
+  {
+    "id": "83",
+    "name": "Karen Batista",
+    "company": "Educa Online",
+    "email": "karen.batista83@educaonline.com",
+    "source": "Web",
+    "score": 81,
+    "status": "New"
+  },
+  {
+    "id": "84",
+    "name": "Nicolas Oliveira",
+    "company": "DataWorks",
+    "email": "nicolas.oliveira84@dataworks.com",
+    "source": "Web",
+    "score": 84,
+    "status": "Qualified"
+  },
+  {
+    "id": "85",
+    "name": "Paulo Barbosa",
+    "company": "TransLog",
+    "email": "paulo.barbosa85@translog.com",
+    "source": "Cold Call",
+    "score": 89,
+    "status": "Qualified"
+  },
+  {
+    "id": "86",
+    "name": "Karen Ferreira",
+    "company": "Green Energy",
+    "email": "karen.ferreira86@greenenergy.com",
+    "source": "Event",
+    "score": 73,
+    "status": "Contacted"
+  },
+  {
+    "id": "87",
+    "name": "Carla Silva",
+    "company": "SmartBuild",
+    "email": "carla.silva87@smartbuild.com",
+    "source": "Event",
+    "score": 60,
+    "status": "New"
+  },
+  {
+    "id": "88",
+    "name": "Isabela Pereira",
+    "company": "AI Vision",
+    "email": "isabela.pereira88@aivision.com",
+    "source": "Referral",
+    "score": 53,
+    "status": "Lost"
+  },
+  {
+    "id": "89",
+    "name": "Diego Martins",
+    "company": "MediPlus",
+    "email": "diego.martins89@mediplus.com",
+    "source": "Web",
+    "score": 78,
+    "status": "Qualified"
+  },
+  {
+    "id": "90",
+    "name": "Carla Lima",
+    "company": "Green Energy",
+    "email": "carla.lima90@greenenergy.com",
+    "source": "Web",
+    "score": 58,
+    "status": "Lost"
+  },
+  {
+    "id": "91",
+    "name": "Clara Martins",
+    "company": "DataWorks",
+    "email": "clara.martins91@dataworks.com",
+    "source": "Event",
+    "score": 72,
+    "status": "Contacted"
+  },
+  {
+    "id": "92",
+    "name": "Victor Souza",
+    "company": "Green Energy",
+    "email": "victor.souza92@greenenergy.com",
+    "source": "Event",
+    "score": 65,
+    "status": "Contacted"
+  },
+  {
+    "id": "93",
+    "name": "Carla Vieira",
+    "company": "Educa Online",
+    "email": "carla.vieira93@educaonline.com",
+    "source": "Cold Call",
+    "score": 87,
+    "status": "Lost"
+  },
+  {
+    "id": "94",
+    "name": "Karen Batista",
+    "company": "Alpha Marketing",
+    "email": "karen.batista94@alphamarketing.com",
+    "source": "Web",
+    "score": 43,
+    "status": "New"
+  },
+  {
+    "id": "95",
+    "name": "Ana Santos",
+    "company": "DataWorks",
+    "email": "ana.santos95@dataworks.com",
+    "source": "Referral",
+    "score": 67,
+    "status": "New"
+  },
+  {
+    "id": "96",
+    "name": "Alice Oliveira",
+    "company": "SoftLink",
+    "email": "alice.oliveira96@softlink.com",
+    "source": "Referral",
+    "score": 53,
+    "status": "New"
+  },
+  {
+    "id": "97",
+    "name": "Alice Barbosa",
+    "company": "AgroMax",
+    "email": "alice.barbosa97@agromax.com",
+    "source": "Referral",
+    "score": 93,
+    "status": "Contacted"
+  },
+  {
+    "id": "98",
+    "name": "Clara Pereira",
+    "company": "NextGen Labs",
+    "email": "clara.pereira98@nextgenlabs.com",
+    "source": "Cold Call",
+    "score": 46,
+    "status": "Qualified"
+  },
+  {
+    "id": "99",
+    "name": "Felipe Barbosa",
+    "company": "RetailPro",
+    "email": "felipe.barbosa99@retailpro.com",
+    "source": "Web",
+    "score": 44,
+    "status": "Qualified"
+  },
+  {
+    "id": "100",
+    "name": "Renata Pereira",
+    "company": "Educa Online",
+    "email": "renata.pereira100@educaonline.com",
+    "source": "Referral",
+    "score": 88,
+    "status": "Qualified"
+  },
+  {
+    "id": "101",
+    "name": "Rafael Oliveira",
+    "company": "Inova Solutions",
+    "email": "rafael.oliveira101@inovasolutions.com",
+    "source": "Web",
+    "score": 56,
+    "status": "Lost"
+  },
+  {
+    "id": "102",
+    "name": "Mariana Santos",
+    "company": "AgroMax",
+    "email": "mariana.santos102@agromax.com",
+    "source": "Cold Call",
+    "score": 53,
+    "status": "Qualified"
+  },
+  {
+    "id": "103",
+    "name": "Olivia Rocha",
+    "company": "MediPlus",
+    "email": "olivia.rocha103@mediplus.com",
+    "source": "Event",
+    "score": 80,
+    "status": "Contacted"
+  },
+  {
+    "id": "104",
+    "name": "Olivia Pereira",
+    "company": "Finance Plus",
+    "email": "olivia.pereira104@financeplus.com",
+    "source": "Referral",
+    "score": 61,
+    "status": "Contacted"
+  },
+  {
+    "id": "105",
+    "name": "Renata Almeida",
+    "company": "AI Vision",
+    "email": "renata.almeida105@aivision.com",
+    "source": "Event",
+    "score": 78,
+    "status": "New"
+  },
+  {
+    "id": "106",
+    "name": "Hugo Souza",
+    "company": "DataWorks",
+    "email": "hugo.souza106@dataworks.com",
+    "source": "Referral",
+    "score": 76,
+    "status": "New"
+  },
+  {
+    "id": "107",
+    "name": "Karen Lima",
+    "company": "Designify",
+    "email": "karen.lima107@designify.com",
+    "source": "Web",
+    "score": 40,
+    "status": "Lost"
+  },
+  {
+    "id": "108",
+    "name": "Carla Barbosa",
+    "company": "Creative Hub",
+    "email": "carla.barbosa108@creativehub.com",
+    "source": "Web",
+    "score": 45,
+    "status": "New"
+  },
+  {
+    "id": "109",
+    "name": "Gabriela Mendes",
+    "company": "SmartBuild",
+    "email": "gabriela.mendes109@smartbuild.com",
+    "source": "Event",
+    "score": 52,
+    "status": "New"
+  },
+  {
+    "id": "110",
+    "name": "Elena Rocha",
+    "company": "AgroMax",
+    "email": "elena.rocha110@agromax.com",
+    "source": "Referral",
+    "score": 92,
+    "status": "Contacted"
+  },
+  {
+    "id": "111",
+    "name": "Carla Batista",
+    "company": "Green Energy",
+    "email": "carla.batista111@greenenergy.com",
+    "source": "Event",
+    "score": 41,
+    "status": "Contacted"
+  },
+  {
+    "id": "112",
+    "name": "Jo\u00e3o Lima",
+    "company": "SoftLink",
+    "email": "jo\u00e3o.lima112@softlink.com",
+    "source": "Web",
+    "score": 68,
+    "status": "Qualified"
+  },
+  {
+    "id": "113",
+    "name": "Paulo Souza",
+    "company": "AI Vision",
+    "email": "paulo.souza113@aivision.com",
+    "source": "Event",
+    "score": 53,
+    "status": "Qualified"
+  },
+  {
+    "id": "114",
+    "name": "Elena Silva",
+    "company": "SoftLink",
+    "email": "elena.silva114@softlink.com",
+    "source": "Referral",
+    "score": 94,
+    "status": "Contacted"
+  },
+  {
+    "id": "115",
+    "name": "Ana Gomes",
+    "company": "AI Vision",
+    "email": "ana.gomes115@aivision.com",
+    "source": "Cold Call",
+    "score": 85,
+    "status": "Lost"
+  },
+  {
+    "id": "116",
+    "name": "Felipe Batista",
+    "company": "CyberVision",
+    "email": "felipe.batista116@cybervision.com",
+    "source": "Referral",
+    "score": 86,
+    "status": "Qualified"
+  },
+  {
+    "id": "117",
+    "name": "Alice Johnson",
+    "company": "AI Vision",
+    "email": "alice.johnson117@aivision.com",
+    "source": "Event",
+    "score": 49,
+    "status": "Contacted"
+  },
+  {
+    "id": "118",
+    "name": "Nicolas Silva",
+    "company": "Alpha Marketing",
+    "email": "nicolas.silva118@alphamarketing.com",
+    "source": "Event",
+    "score": 83,
+    "status": "Qualified"
+  },
+  {
+    "id": "119",
+    "name": "Lucas Ramos",
+    "company": "TransLog",
+    "email": "lucas.ramos119@translog.com",
+    "source": "Event",
+    "score": 84,
+    "status": "New"
+  },
+  {
+    "id": "120",
+    "name": "Rafael Souza",
+    "company": "AgroMax",
+    "email": "rafael.souza120@agromax.com",
+    "source": "Web",
+    "score": 82,
+    "status": "Qualified"
+  },
+  {
+    "id": "121",
+    "name": "Nicolas Costa",
+    "company": "NextGen Labs",
+    "email": "nicolas.costa121@nextgenlabs.com",
+    "source": "Web",
+    "score": 51,
+    "status": "New"
+  },
+  {
+    "id": "122",
+    "name": "Paulo Lima",
+    "company": "DataWorks",
+    "email": "paulo.lima122@dataworks.com",
+    "source": "Cold Call",
+    "score": 63,
+    "status": "Lost"
+  },
+  {
+    "id": "123",
+    "name": "Isabela Oliveira",
+    "company": "HealthCare Pro",
+    "email": "isabela.oliveira123@healthcarepro.com",
+    "source": "Event",
+    "score": 48,
+    "status": "New"
+  },
+  {
+    "id": "124",
+    "name": "Isabela Oliveira",
+    "company": "TechCorp",
+    "email": "isabela.oliveira124@techcorp.com",
+    "source": "Event",
+    "score": 64,
+    "status": "Qualified"
+  },
+  {
+    "id": "125",
+    "name": "Tatiana Almeida",
+    "company": "Designify",
+    "email": "tatiana.almeida125@designify.com",
+    "source": "Web",
+    "score": 78,
+    "status": "Qualified"
+  },
+  {
+    "id": "126",
+    "name": "Isabela Barbosa",
+    "company": "Finance Plus",
+    "email": "isabela.barbosa126@financeplus.com",
+    "source": "Referral",
+    "score": 82,
+    "status": "Contacted"
+  },
+  {
+    "id": "127",
+    "name": "Jo\u00e3o Johnson",
+    "company": "TransLog",
+    "email": "jo\u00e3o.johnson127@translog.com",
+    "source": "Event",
+    "score": 49,
+    "status": "Contacted"
+  },
+  {
+    "id": "128",
+    "name": "Nicolas Gomes",
+    "company": "TransLog",
+    "email": "nicolas.gomes128@translog.com",
+    "source": "Referral",
+    "score": 56,
+    "status": "Qualified"
+  },
+  {
+    "id": "129",
+    "name": "Nicolas Lima",
+    "company": "Alpha Marketing",
+    "email": "nicolas.lima129@alphamarketing.com",
+    "source": "Event",
+    "score": 41,
+    "status": "Lost"
+  },
+  {
+    "id": "130",
+    "name": "Hugo Andrade",
+    "company": "Alpha Marketing",
+    "email": "hugo.andrade130@alphamarketing.com",
+    "source": "Cold Call",
+    "score": 96,
+    "status": "Qualified"
+  },
+  {
+    "id": "131",
+    "name": "Hugo Gomes",
+    "company": "Inova Solutions",
+    "email": "hugo.gomes131@inovasolutions.com",
+    "source": "Referral",
+    "score": 69,
+    "status": "New"
+  },
+  {
+    "id": "132",
+    "name": "Lucas Souza",
+    "company": "Finance Plus",
+    "email": "lucas.souza132@financeplus.com",
+    "source": "Event",
+    "score": 89,
+    "status": "New"
+  },
+  {
+    "id": "133",
+    "name": "Carla Johnson",
+    "company": "HealthCare Pro",
+    "email": "carla.johnson133@healthcarepro.com",
+    "source": "Web",
+    "score": 68,
+    "status": "Contacted"
+  },
+  {
+    "id": "134",
+    "name": "Ana Gomes",
+    "company": "Creative Hub",
+    "email": "ana.gomes134@creativehub.com",
+    "source": "Cold Call",
+    "score": 80,
+    "status": "New"
+  },
+  {
+    "id": "135",
+    "name": "Gabriela Silva",
+    "company": "AI Vision",
+    "email": "gabriela.silva135@aivision.com",
+    "source": "Referral",
+    "score": 49,
+    "status": "Lost"
+  },
+  {
+    "id": "136",
+    "name": "Felipe Santos",
+    "company": "TransLog",
+    "email": "felipe.santos136@translog.com",
+    "source": "Cold Call",
+    "score": 58,
+    "status": "New"
+  },
+  {
+    "id": "137",
+    "name": "Rafael Silva",
+    "company": "AgroMax",
+    "email": "rafael.silva137@agromax.com",
+    "source": "Web",
+    "score": 80,
+    "status": "New"
+  },
+  {
+    "id": "138",
+    "name": "Diego Almeida",
+    "company": "Designify",
+    "email": "diego.almeida138@designify.com",
+    "source": "Cold Call",
+    "score": 94,
+    "status": "Qualified"
+  },
+  {
+    "id": "139",
+    "name": "Paulo Santos",
+    "company": "AgroMax",
+    "email": "paulo.santos139@agromax.com",
+    "source": "Event",
+    "score": 84,
+    "status": "Contacted"
+  },
+  {
+    "id": "140",
+    "name": "Clara Silva",
+    "company": "SoftLink",
+    "email": "clara.silva140@softlink.com",
+    "source": "Event",
+    "score": 74,
+    "status": "Contacted"
+  },
+  {
+    "id": "141",
+    "name": "Diego Barbosa",
+    "company": "Educa Online",
+    "email": "diego.barbosa141@educaonline.com",
+    "source": "Referral",
+    "score": 72,
+    "status": "Qualified"
+  },
+  {
+    "id": "142",
+    "name": "Paulo Mendes",
+    "company": "RetailPro",
+    "email": "paulo.mendes142@retailpro.com",
+    "source": "Cold Call",
+    "score": 86,
+    "status": "Qualified"
+  },
+  {
+    "id": "143",
+    "name": "Victor Pereira",
+    "company": "FutureTech",
+    "email": "victor.pereira143@futuretech.com",
+    "source": "Web",
+    "score": 75,
+    "status": "Contacted"
+  },
+  {
+    "id": "144",
+    "name": "Alice Rocha",
+    "company": "SmartBuild",
+    "email": "alice.rocha144@smartbuild.com",
+    "source": "Referral",
+    "score": 97,
+    "status": "New"
+  },
+  {
+    "id": "145",
+    "name": "Felipe Gomes",
+    "company": "SmartBuild",
+    "email": "felipe.gomes145@smartbuild.com",
+    "source": "Event",
+    "score": 56,
+    "status": "Qualified"
+  },
+  {
+    "id": "146",
+    "name": "Mariana Ferreira",
+    "company": "RetailPro",
+    "email": "mariana.ferreira146@retailpro.com",
+    "source": "Referral",
+    "score": 96,
+    "status": "Qualified"
+  },
+  {
+    "id": "147",
+    "name": "Lucas Ramos",
+    "company": "TechCorp",
+    "email": "lucas.ramos147@techcorp.com",
+    "source": "Referral",
+    "score": 75,
+    "status": "Lost"
+  },
+  {
+    "id": "148",
+    "name": "Olivia Rocha",
+    "company": "FutureTech",
+    "email": "olivia.rocha148@futuretech.com",
+    "source": "Event",
+    "score": 86,
+    "status": "Contacted"
+  },
+  {
+    "id": "149",
+    "name": "Karen Vieira",
+    "company": "Finance Plus",
+    "email": "karen.vieira149@financeplus.com",
+    "source": "Web",
+    "score": 72,
+    "status": "Lost"
+  },
+  {
+    "id": "150",
+    "name": "Samuel Vieira",
+    "company": "Finance Plus",
+    "email": "samuel.vieira150@financeplus.com",
+    "source": "Cold Call",
+    "score": 53,
+    "status": "New"
+  },
+  {
+    "id": "151",
+    "name": "Clara Lima",
+    "company": "SoftLink",
+    "email": "clara.lima151@softlink.com",
+    "source": "Cold Call",
+    "score": 74,
+    "status": "Qualified"
+  },
+  {
+    "id": "152",
+    "name": "Karen Costa",
+    "company": "Alpha Marketing",
+    "email": "karen.costa152@alphamarketing.com",
+    "source": "Web",
+    "score": 54,
+    "status": "Contacted"
+  },
+  {
+    "id": "153",
+    "name": "Mariana Ramos",
+    "company": "SmartBuild",
+    "email": "mariana.ramos153@smartbuild.com",
+    "source": "Cold Call",
+    "score": 54,
+    "status": "Qualified"
+  },
+  {
+    "id": "154",
+    "name": "Carla Ramos",
+    "company": "Inova Solutions",
+    "email": "carla.ramos154@inovasolutions.com",
+    "source": "Web",
+    "score": 45,
+    "status": "Lost"
+  },
+  {
+    "id": "155",
+    "name": "Mariana Costa",
+    "company": "Educa Online",
+    "email": "mariana.costa155@educaonline.com",
+    "source": "Cold Call",
+    "score": 61,
+    "status": "New"
+  },
+  {
+    "id": "156",
+    "name": "Felipe Souza",
+    "company": "DataWorks",
+    "email": "felipe.souza156@dataworks.com",
+    "source": "Cold Call",
+    "score": 60,
+    "status": "Qualified"
+  },
+  {
+    "id": "157",
+    "name": "Rafael Ramos",
+    "company": "AI Vision",
+    "email": "rafael.ramos157@aivision.com",
+    "source": "Referral",
+    "score": 70,
+    "status": "Qualified"
+  },
+  {
+    "id": "158",
+    "name": "Clara Santos",
+    "company": "FutureTech",
+    "email": "clara.santos158@futuretech.com",
+    "source": "Cold Call",
+    "score": 69,
+    "status": "Contacted"
+  },
+  {
+    "id": "159",
+    "name": "Olivia Gomes",
+    "company": "FutureTech",
+    "email": "olivia.gomes159@futuretech.com",
+    "source": "Event",
+    "score": 74,
+    "status": "Lost"
+  },
+  {
+    "id": "160",
+    "name": "Victor Martins",
+    "company": "Green Energy",
+    "email": "victor.martins160@greenenergy.com",
+    "source": "Cold Call",
+    "score": 42,
+    "status": "Lost"
+  },
+  {
+    "id": "161",
+    "name": "Gabriela Oliveira",
+    "company": "CyberVision",
+    "email": "gabriela.oliveira161@cybervision.com",
+    "source": "Cold Call",
+    "score": 40,
+    "status": "Lost"
+  },
+  {
+    "id": "162",
+    "name": "Nicolas Dias",
+    "company": "Inova Solutions",
+    "email": "nicolas.dias162@inovasolutions.com",
+    "source": "Referral",
+    "score": 48,
+    "status": "New"
+  },
+  {
+    "id": "163",
+    "name": "Samuel Barbosa",
+    "company": "TransLog",
+    "email": "samuel.barbosa163@translog.com",
+    "source": "Web",
+    "score": 47,
+    "status": "Contacted"
+  },
+  {
+    "id": "164",
+    "name": "Tatiana Costa",
+    "company": "Finance Plus",
+    "email": "tatiana.costa164@financeplus.com",
+    "source": "Referral",
+    "score": 89,
+    "status": "Qualified"
+  },
+  {
+    "id": "165",
+    "name": "Alice Ferreira",
+    "company": "Inova Solutions",
+    "email": "alice.ferreira165@inovasolutions.com",
+    "source": "Web",
+    "score": 89,
+    "status": "Contacted"
+  },
+  {
+    "id": "166",
+    "name": "Bruno Costa",
+    "company": "SmartBuild",
+    "email": "bruno.costa166@smartbuild.com",
+    "source": "Referral",
+    "score": 53,
+    "status": "New"
+  },
+  {
+    "id": "167",
+    "name": "Felipe Martins",
+    "company": "Educa Online",
+    "email": "felipe.martins167@educaonline.com",
+    "source": "Cold Call",
+    "score": 62,
+    "status": "Qualified"
+  },
+  {
+    "id": "168",
+    "name": "Lucas Dias",
+    "company": "SmartBuild",
+    "email": "lucas.dias168@smartbuild.com",
+    "source": "Event",
+    "score": 41,
+    "status": "Lost"
+  },
+  {
+    "id": "169",
+    "name": "Daniel Ramos",
+    "company": "Designify",
+    "email": "daniel.ramos169@designify.com",
+    "source": "Web",
+    "score": 92,
+    "status": "Contacted"
+  },
+  {
+    "id": "170",
+    "name": "Mariana Pereira",
+    "company": "CyberVision",
+    "email": "mariana.pereira170@cybervision.com",
+    "source": "Event",
+    "score": 51,
+    "status": "Lost"
+  },
+  {
+    "id": "171",
+    "name": "Karen Pereira",
+    "company": "FutureTech",
+    "email": "karen.pereira171@futuretech.com",
+    "source": "Cold Call",
+    "score": 40,
+    "status": "Lost"
+  },
+  {
+    "id": "172",
+    "name": "Alice Rocha",
+    "company": "TransLog",
+    "email": "alice.rocha172@translog.com",
+    "source": "Web",
+    "score": 61,
+    "status": "New"
+  },
+  {
+    "id": "173",
+    "name": "Alice Barbosa",
+    "company": "CyberVision",
+    "email": "alice.barbosa173@cybervision.com",
+    "source": "Web",
+    "score": 51,
+    "status": "Qualified"
+  },
+  {
+    "id": "174",
+    "name": "Lucas Ferreira",
+    "company": "Designify",
+    "email": "lucas.ferreira174@designify.com",
+    "source": "Event",
+    "score": 83,
+    "status": "Qualified"
+  },
+  {
+    "id": "175",
+    "name": "Karen Rocha",
+    "company": "RetailPro",
+    "email": "karen.rocha175@retailpro.com",
+    "source": "Referral",
+    "score": 78,
+    "status": "Contacted"
+  },
+  {
+    "id": "176",
+    "name": "Diego Pereira",
+    "company": "TransLog",
+    "email": "diego.pereira176@translog.com",
+    "source": "Web",
+    "score": 45,
+    "status": "Lost"
+  },
+  {
+    "id": "177",
+    "name": "Carla Mendes",
+    "company": "HealthCare Pro",
+    "email": "carla.mendes177@healthcarepro.com",
+    "source": "Web",
+    "score": 62,
+    "status": "Lost"
+  },
+  {
+    "id": "178",
+    "name": "Karen Almeida",
+    "company": "SmartBuild",
+    "email": "karen.almeida178@smartbuild.com",
+    "source": "Web",
+    "score": 93,
+    "status": "Contacted"
+  },
+  {
+    "id": "179",
+    "name": "Samuel Rocha",
+    "company": "TransLog",
+    "email": "samuel.rocha179@translog.com",
+    "source": "Cold Call",
+    "score": 50,
+    "status": "New"
+  },
+  {
+    "id": "180",
+    "name": "Karen Dias",
+    "company": "HealthCare Pro",
+    "email": "karen.dias180@healthcarepro.com",
+    "source": "Cold Call",
+    "score": 57,
+    "status": "Lost"
+  },
+  {
+    "id": "181",
+    "name": "Rafael Ramos",
+    "company": "NextGen Labs",
+    "email": "rafael.ramos181@nextgenlabs.com",
+    "source": "Web",
+    "score": 82,
+    "status": "New"
+  },
+  {
+    "id": "182",
+    "name": "Elena Silva",
+    "company": "AgroMax",
+    "email": "elena.silva182@agromax.com",
+    "source": "Event",
+    "score": 70,
+    "status": "Contacted"
+  },
+  {
+    "id": "183",
+    "name": "Bruno Santos",
+    "company": "AgroMax",
+    "email": "bruno.santos183@agromax.com",
+    "source": "Event",
+    "score": 77,
+    "status": "Qualified"
+  },
+  {
+    "id": "184",
+    "name": "Hugo Dias",
+    "company": "SmartBuild",
+    "email": "hugo.dias184@smartbuild.com",
+    "source": "Web",
+    "score": 55,
+    "status": "Qualified"
+  },
+  {
+    "id": "185",
+    "name": "Nicolas Oliveira",
+    "company": "AI Vision",
+    "email": "nicolas.oliveira185@aivision.com",
+    "source": "Web",
+    "score": 91,
+    "status": "Contacted"
+  },
+  {
+    "id": "186",
+    "name": "Alice Vieira",
+    "company": "HealthCare Pro",
+    "email": "alice.vieira186@healthcarepro.com",
+    "source": "Event",
+    "score": 71,
+    "status": "Lost"
+  },
+  {
+    "id": "187",
+    "name": "Lucas Santos",
+    "company": "AI Vision",
+    "email": "lucas.santos187@aivision.com",
+    "source": "Referral",
+    "score": 53,
+    "status": "Lost"
+  },
+  {
+    "id": "188",
+    "name": "Renata Martins",
+    "company": "Educa Online",
+    "email": "renata.martins188@educaonline.com",
+    "source": "Cold Call",
+    "score": 95,
+    "status": "Contacted"
+  },
+  {
+    "id": "189",
+    "name": "Olivia Almeida",
+    "company": "AgroMax",
+    "email": "olivia.almeida189@agromax.com",
+    "source": "Web",
+    "score": 85,
+    "status": "Contacted"
+  },
+  {
+    "id": "190",
+    "name": "Karen Martins",
+    "company": "HealthCare Pro",
+    "email": "karen.martins190@healthcarepro.com",
+    "source": "Web",
+    "score": 75,
+    "status": "New"
+  },
+  {
+    "id": "191",
+    "name": "Felipe Silva",
+    "company": "HealthCare Pro",
+    "email": "felipe.silva191@healthcarepro.com",
+    "source": "Event",
+    "score": 95,
+    "status": "Lost"
+  },
+  {
+    "id": "192",
+    "name": "Alice Mendes",
+    "company": "Alpha Marketing",
+    "email": "alice.mendes192@alphamarketing.com",
+    "source": "Referral",
+    "score": 41,
+    "status": "Contacted"
+  },
+  {
+    "id": "193",
+    "name": "Carla Oliveira",
+    "company": "Alpha Marketing",
+    "email": "carla.oliveira193@alphamarketing.com",
+    "source": "Web",
+    "score": 45,
+    "status": "New"
+  },
+  {
+    "id": "194",
+    "name": "Rafael Rocha",
+    "company": "CyberVision",
+    "email": "rafael.rocha194@cybervision.com",
+    "source": "Event",
+    "score": 51,
+    "status": "Lost"
+  },
+  {
+    "id": "195",
+    "name": "Mariana Batista",
+    "company": "Inova Solutions",
+    "email": "mariana.batista195@inovasolutions.com",
+    "source": "Cold Call",
+    "score": 51,
+    "status": "Lost"
+  },
+  {
+    "id": "196",
+    "name": "Gabriela Gomes",
+    "company": "Creative Hub",
+    "email": "gabriela.gomes196@creativehub.com",
+    "source": "Event",
+    "score": 99,
+    "status": "New"
+  },
+  {
+    "id": "197",
+    "name": "Lucas Ramos",
+    "company": "AgroMax",
+    "email": "lucas.ramos197@agromax.com",
+    "source": "Event",
+    "score": 78,
+    "status": "New"
+  },
+  {
+    "id": "198",
+    "name": "Ana Costa",
+    "company": "HealthCare Pro",
+    "email": "ana.costa198@healthcarepro.com",
+    "source": "Web",
+    "score": 72,
+    "status": "Qualified"
+  },
+  {
+    "id": "199",
+    "name": "Rafael Almeida",
+    "company": "AI Vision",
+    "email": "rafael.almeida199@aivision.com",
+    "source": "Cold Call",
+    "score": 47,
+    "status": "Qualified"
+  },
+  {
+    "id": "200",
+    "name": "Samuel Barbosa",
+    "company": "HealthCare Pro",
+    "email": "samuel.barbosa200@healthcarepro.com",
+    "source": "Web",
+    "score": 42,
+    "status": "Contacted"
+  }
+]
